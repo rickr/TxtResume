@@ -9,7 +9,7 @@ me = Person.new(
   email: 'jerry@example.org',
   website: 'http://example.com',
   github: 'https://github.com/jerrysmith',
-  blurb: 'A description about yourself'
+  blurb: 'A description about yourself',
   jobs: [
     Job.new(name: 'Advertising', years: '2011-present', blurb: 'What you did at this job'),
     Job.new(name: 'Civics', years: '2000-2011', blurb: 'what you did at this job')
